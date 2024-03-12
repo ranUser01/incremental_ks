@@ -1,0 +1,6 @@
+DDAL
+*__pycache__*
+*/*/__pycache__\*
+*\*\__pycache__/*
+.vscode
+IncrementalKS\__pycache__\*
