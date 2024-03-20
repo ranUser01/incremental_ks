@@ -1,5 +1,0 @@
-setup.py
-IncrementalKS.egg-info/PKG-INFO
-IncrementalKS.egg-info/SOURCES.txt
-IncrementalKS.egg-info/dependency_links.txt
-IncrementalKS.egg-info/top_level.txt
