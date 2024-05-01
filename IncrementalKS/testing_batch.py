@@ -7,7 +7,6 @@ group_B = np.random.normal(loc = 1, scale = 1, size = 100)
 
 iks = IKS()
 
-
 for x, y in zip(group_A, group_B):
   iks.Add(x, 0)
   iks.Add(y, 1)
